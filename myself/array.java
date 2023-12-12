@@ -19,7 +19,7 @@ public class array {
 //		Arrays.sort(a);
 
 // 배열에서 가장 가까운 값 찾기		
-		int[] ary = { 1,3,5,7,9,11 };
+		int[] ary = { 1,3,4,8,17,20 };
 		Arrays.sort(ary);
 
 		// 두 수 사이의 차 구하는 배열 생성
